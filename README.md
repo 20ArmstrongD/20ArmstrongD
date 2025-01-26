@@ -1,6 +1,6 @@
 # Donnie Armstrong
 
-<img src="./img.gif" width="600" height="300"/>
+<img src="github-profile-config/img.gif" width="600" height="300"/>
 
 
 ## What I'm Working On
